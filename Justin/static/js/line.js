@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 function draw_line(c, data){
     console.log(c);  
     var lineGen = d3.svg.line()
@@ -25,3 +27,4 @@ var data = d3.csv("new_test2.csv", function(data) {
     .attr('stroke-width', 2)
     .attr('fill', 'none');
 });
+>>>>>>> f7ad199650f715b38837ea8cfeff68efa383558e
