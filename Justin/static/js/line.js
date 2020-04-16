@@ -1,30 +1,27 @@
-d3.csv("data/merged_data_modified.csv").then(function(covidData) {
+function draw_line(c, data){
+    console.log(c);  
+    var lineGen = d3.svg.line()
+        .x(function(d) {
+            return xScale(d.date);
+        })
+        .y(function(d) {
+            console.log(d[c]);
+            return yScale(d[c]);
+        })
+        .interpolate("basis");
+    return lineGen(data); 
+};
 
-    console.log(covidData);
+var data = d3.csv("new_test2.csv", function(data) {
+    vis.append('svg:path')
+    .attr('d', draw_line('A', data))
+    .attr('stroke', 'green')
+    .attr('stroke-width', 2)
+    .attr('fill', 'none');
 
-    covidData.forEach(function(data) {
-        data.cases = +data.cases;
-        data.days_gt_100 = +data.days_gt_100;
-        
-        var trace1 = {
-            x: [data.days_gt_100],
-            y: [data.cases],
-            type: 'scatter'
-        }
-
-        var linedata = [trace1];
-
-        Plotly.newPlot("line", linedata);
-    });
-
-    // var trace1 = {
-    //     x: [data.days_gt_100],
-    //     y: [data.cases],
-    //     type: 'scatter'
-    // };
-
-    // var data = [trace1];
-
-    // Plotly.newPlot('line', data);
-
+    vis.append('svg:path')
+    .attr('d', draw_line('B', data))
+    .attr('stroke', 'blue')
+    .attr('stroke-width', 2)
+    .attr('fill', 'none');
 });
