@@ -17,4 +17,8 @@
     border-color: black;
 }
 
+.nav-item>a:hover {
+    background-color: white;
+}
+
 
