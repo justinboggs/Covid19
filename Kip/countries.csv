@@ -1,119 +1,119 @@
-globalName,regionName,subRegionName,code,globalCode,regionCode,subRegionCode,interRegionCode,interRegionName,country,m49,ldc,lldc,sids,development,pdi,idv,mas,uai,ltowvs,ivr
-World,Europe,Southern Europe,ALB,1,150,39,,,Albania,8,,,,Developed,90.0,20.0,80.0,70.0,61.0,15.0
-World,Africa,Northern Africa,DZA,1,2,15,,,Algeria,12,,,,Developing,,,,,26.0,32.0
-World,Europe,Southern Europe,AND,1,150,39,,,Andorra,20,,,,Developed,,,,,,65.0
-World,Africa,Sub-Saharan Africa,AGO,1,2,202,17.0,Middle Africa,Angola,24,1.0,,,Developing,83.0,18.0,20.0,60.0,15.0,83.0
-World,Americas,Latin America and the Caribbean,ARG,1,19,419,5.0,South America,Argentina,32,,,,Developing,49.0,46.0,56.0,86.0,20.0,62.0
-World,Asia,Western Asia,ARM,1,142,145,,,Armenia,51,,1.0,,Developing,,,,,61.0,
-World,Oceania,Australia and New Zealand,AUS,1,9,53,,,Australia,36,,,,Developed,38.0,90.0,61.0,51.0,21.0,71.0
-World,Europe,Western Europe,AUT,1,150,155,,,Austria,40,,,,Developed,11.0,55.0,79.0,70.0,60.0,63.0
-World,Asia,Western Asia,AZE,1,142,145,,,Azerbaijan,31,,1.0,,Developing,,,,,61.0,22.0
-World,Asia,Southern Asia,BGD,1,142,34,,,Bangladesh,50,1.0,,,Developing,80.0,20.0,55.0,60.0,47.0,20.0
-World,Europe,Eastern Europe,BLR,1,150,151,,,Belarus,112,,,,Developed,,,,,81.0,15.0
-World,Europe,Western Europe,BEL,1,150,155,,,Belgium,56,,,,Developed,65.0,75.0,54.0,94.0,82.0,57.0
-World,Africa,Sub-Saharan Africa,BEN,1,2,202,11.0,Western Africa,Benin,204,1.0,,,Developing,61.0,78.0,43.0,97.0,,
-World,Asia,Southern Asia,BTN,1,142,34,,,Bhutan,64,1.0,1.0,,Developing,94.0,52.0,32.0,28.0,,
-World,Europe,Southern Europe,BIH,1,150,39,,,Bosnia and Herzegovina,70,,,,Developed,,,,,70.0,44.0
-World,Americas,Latin America and the Caribbean,BRA,1,19,419,5.0,South America,Brazil,76,,,,Developing,69.0,38.0,49.0,76.0,44.0,59.0
-World,Europe,Eastern Europe,BGR,1,150,151,,,Bulgaria,100,,,,Developed,70.0,30.0,40.0,85.0,69.0,16.0
-World,Africa,Sub-Saharan Africa,BFA,1,2,202,11.0,Western Africa,Burkina Faso,854,1.0,1.0,,Developing,70.0,15.0,50.0,55.0,27.0,18.0
-World,Americas,Northern America,CAN,1,19,21,,,Canada,124,,,,Developed,39.0,80.0,52.0,48.0,36.0,68.0
-World,Africa,Sub-Saharan Africa,CAF,1,2,202,17.0,Middle Africa,Central African Republic,140,1.0,1.0,,Developing,54.0,73.0,45.0,60.0,,
-World,Americas,Latin America and the Caribbean,CHL,1,19,419,5.0,South America,Chile,152,,,,Developing,63.0,23.0,28.0,86.0,31.0,68.0
-World,Asia,Eastern Asia,CHN,1,142,30,,,China,156,,,,Developing,80.0,20.0,66.0,30.0,87.0,24.0
-World,Americas,Latin America and the Caribbean,COL,1,19,419,5.0,South America,Colombia,170,,,,Developing,67.0,13.0,64.0,80.0,13.0,83.0
-World,Americas,Latin America and the Caribbean,CRI,1,19,419,13.0,Central America,Costa Rica,188,,,,Developing,35.0,15.0,21.0,86.0,,
-World,Europe,Southern Europe,HRV,1,150,39,,,Croatia,191,,,,Developed,73.0,33.0,40.0,80.0,58.0,33.0
-World,Asia,Western Asia,CYP,1,142,145,,,Cyprus,196,,,,Developed,,,,,,70.0
-World,Europe,Eastern Europe,CZE,1,150,151,,,Czech Republic,203,,,,Developed,57.0,58.0,57.0,74.0,70.0,29.0
-World,Europe,Northern Europe,DNK,1,150,154,,,Denmark,208,,,,Developed,18.0,74.0,16.0,23.0,35.0,70.0
-World,Americas,Latin America and the Caribbean,DOM,1,19,419,29.0,Caribbean,Dominican Republic,214,,,1.0,Developing,65.0,30.0,65.0,45.0,13.0,54.0
-World,Americas,Latin America and the Caribbean,ECU,1,19,419,5.0,South America,Ecuador,218,,,,Developing,78.0,8.0,63.0,67.0,,
-World,Africa,Northern Africa,EGY,1,2,15,,,Egypt,818,,,,Developing,70.0,25.0,45.0,80.0,7.0,4.0
-World,Americas,Latin America and the Caribbean,SLV,1,19,419,13.0,Central America,El Salvador,222,,,,Developing,66.0,19.0,40.0,94.0,20.0,89.0
-World,Europe,Northern Europe,EST,1,150,154,,,Estonia,233,,,,Developed,40.0,60.0,30.0,60.0,82.0,16.0
-World,Africa,Sub-Saharan Africa,ETH,1,2,202,14.0,Eastern Africa,Ethiopia,231,1.0,1.0,,Developing,70.0,20.0,65.0,55.0,,46.0
-World,Oceania,Melanesia,FJI,1,9,54,,,Fiji,242,,,1.0,Developing,78.0,14.0,46.0,48.0,,
-World,Europe,Northern Europe,FIN,1,150,154,,,Finland,246,,,,Developed,33.0,63.0,26.0,59.0,38.0,57.0
-World,Europe,Western Europe,FRA,1,150,155,,,France,250,,,,Developed,68.0,71.0,43.0,86.0,63.0,48.0
-World,Asia,Western Asia,GEO,1,142,145,,,Georgia,268,,,,Developing,,,,,38.0,32.0
-World,Europe,Western Europe,DEU,1,150,155,,,Germany,276,,,,Developed,35.0,67.0,66.0,65.0,83.0,40.0
-World,Africa,Sub-Saharan Africa,GHA,1,2,202,11.0,Western Africa,Ghana,288,,,,Developing,80.0,15.0,40.0,65.0,4.0,72.0
-World,Europe,Southern Europe,GRC,1,150,39,,,Greece,300,,,,Developed,60.0,35.0,57.0,112.0,45.0,50.0
-World,Americas,Latin America and the Caribbean,GTM,1,19,419,13.0,Central America,Guatemala,320,,,,Developing,95.0,6.0,37.0,101.0,,
-World,Americas,Latin America and the Caribbean,HND,1,19,419,13.0,,Honduras,340,,,,Developing,80.0,20.0,40.0,50.0,,
-World,Asia,Eastern Asia,HKG,1,142,30,,,Hong Kong,344,,,,Developed,68.0,25.0,57.0,29.0,61.0,17.0
-World,Europe,Eastern Europe,HUN,1,150,151,,,Hungary,348,,,,Developed,46.0,80.0,88.0,82.0,58.0,31.0
-World,Europe,Northern Europe,ISL,1,150,154,,,Iceland,352,,,,Developed,30.0,60.0,10.0,50.0,28.0,67.0
-World,Asia,Southern Asia,IND,1,142,34,,,India,356,,,,Developing,77.0,48.0,56.0,40.0,51.0,26.0
-World,Asia,South-eastern Asia,IDN,1,142,35,,,Indonesia,360,,,,Developing,78.0,14.0,46.0,48.0,62.0,38.0
-World,Asia,Southern Asia,IRN,1,142,34,,,Iran,364,,,,Developing,58.0,41.0,43.0,59.0,14.0,40.0
-World,Asia,Western Asia,IRQ,1,142,145,,,Iraq,368,,,,Developing,95.0,30.0,70.0,85.0,25.0,17.0
-World,Europe,Northern Europe,IRL,1,150,154,,,Ireland,372,,,,Developed,28.0,70.0,68.0,35.0,24.0,65.0
-World,Asia,Western Asia,ISR,1,142,145,,,Israel,376,,,,Developed,13.0,54.0,47.0,81.0,38.0,
-World,Europe,Southern Europe,ITA,1,150,39,,,Italy,380,,,,Developed,50.0,76.0,70.0,75.0,61.0,30.0
-World,Americas,Latin America and the Caribbean,JAM,1,19,419,29.0,Caribbean,Jamaica,388,,,1.0,Developing,45.0,39.0,68.0,13.0,,
-World,Asia,Eastern Asia,JPN,1,142,30,,,Japan,392,,,,Developed,54.0,46.0,95.0,92.0,88.0,42.0
-World,Asia,Western Asia,JOR,1,142,145,,,Jordan,400,,,,Developing,70.0,30.0,45.0,65.0,16.0,43.0
-World,Africa,Sub-Saharan Africa,KEN,1,2,202,14.0,,Kenya,404,,,,Developing,70.0,25.0,60.0,50.0,,
-World,Asia,Western Asia,KWT,1,142,145,,,Kuwait,414,,,,Developing,90.0,25.0,40.0,80.0,,
-World,Asia,Central Asia,KGZ,1,142,143,,,Kyrgyzstan,417,,1.0,,Developing,,,,,66.0,39.0
-World,Europe,Northern Europe,LVA,1,150,154,,,Latvia,428,,,,Developed,44.0,70.0,9.0,63.0,69.0,13.0
-World,Europe,Northern Europe,LTU,1,150,154,,,Lithuania,440,,,,Developed,42.0,60.0,19.0,65.0,82.0,16.0
-World,Europe,Western Europe,LUX,1,150,155,,,Luxembourg,442,,,,Developed,40.0,60.0,50.0,70.0,64.0,56.0
-World,Africa,Sub-Saharan Africa,MWI,1,2,202,14.0,Eastern Africa,Malawi,454,1.0,1.0,,Developing,70.0,30.0,40.0,50.0,,
-World,Asia,South-eastern Asia,MYS,1,142,35,,,Malaysia,458,,,,Developing,104.0,26.0,50.0,36.0,41.0,57.0
-World,Africa,Sub-Saharan Africa,MLI,1,2,202,11.0,Western Africa,Mali,466,1.0,1.0,,Developing,,,,,20.0,43.0
-World,Europe,Southern Europe,MLT,1,150,39,,,Malta,470,,,,Developed,56.0,59.0,47.0,96.0,47.0,66.0
-World,Americas,Latin America and the Caribbean,MEX,1,19,419,13.0,Central America,Mexico,484,,,,Developing,81.0,30.0,69.0,82.0,24.0,97.0
-World,Europe,Southern Europe,MNE,1,150,39,,,Montenegro,499,,,,Developed,,,,,75.0,20.0
-World,Africa,Northern Africa,MAR,1,2,15,,,Morocco,504,,,,Developing,70.0,46.0,53.0,68.0,14.0,25.0
-World,Africa,Sub-Saharan Africa,MOZ,1,2,202,14.0,Eastern Africa,Mozambique,508,1.0,,,Developing,85.0,15.0,38.0,44.0,11.0,80.0
-World,Africa,Sub-Saharan Africa,NAM,1,2,202,18.0,Southern Africa,Namibia,516,,,,Developing,65.0,30.0,40.0,45.0,35.0,
-World,Asia,Southern Asia,NPL,1,142,34,,,Nepal,524,1.0,1.0,,Developing,65.0,30.0,40.0,40.0,,
-World,Europe,Western Europe,NLD,1,150,155,,,Netherlands,528,,,,Developed,38.0,80.0,14.0,53.0,67.0,68.0
-World,Oceania,Australia and New Zealand,NZL,1,9,53,,,New Zealand,554,,,,Developed,22.0,79.0,58.0,49.0,33.0,75.0
-World,Africa,Sub-Saharan Africa,NGA,1,2,202,11.0,Western Africa,Nigeria,566,,,,Developing,80.0,30.0,60.0,55.0,13.0,84.0
-World,Europe,Southern Europe,MKD,1,150,39,,,Macedonia,807,,1.0,,Developed,,,,,62.0,35.0
-World,Europe,Northern Europe,NOR,1,150,154,,,Norway,578,,,,Developed,31.0,69.0,8.0,50.0,35.0,55.0
-World,Asia,Southern Asia,PAK,1,142,34,,,Pakistan,586,,,,Developing,55.0,14.0,50.0,70.0,50.0,0.0
-World,Americas,Latin America and the Caribbean,PAN,1,19,419,13.0,Central America,Panama,381,,,,Developing,95.0,11.0,44.0,86.0,,
-World,Americas,Latin America and the Caribbean,PER,1,19,419,5.0,South America,Peru,604,,,,Developing,64.0,16.0,42.0,87.0,25.0,46.0
-World,Asia,South-eastern Asia,PHL,1,142,35,,,Philippines,608,,,,Developing,94.0,32.0,64.0,44.0,27.0,42.0
-World,Europe,Eastern Europe,POL,1,150,151,,,Poland,616,,,,Developed,68.0,60.0,64.0,93.0,38.0,29.0
-World,Europe,Southern Europe,PRT,1,150,39,,,Portugal,620,,,,Developed,63.0,27.0,31.0,104.0,28.0,33.0
-World,Americas,Latin America and the Caribbean,PRI,1,19,419,29.0,Caribbean,Puerto Rico,630,,,1.0,Developing,68.0,27.0,56.0,38.0,19.0,99.0
-World,Asia,Western Asia,QAT,1,142,145,,,Qatar,634,,,,Developing,93.0,25.0,55.0,80.0,,
-World,Europe,Eastern Europe,MDA,1,150,151,,,Moldova,498,,,,Developed,,,,,71.0,19.0
-World,Europe,Eastern Europe,ROU,1,150,151,,,Romania,642,,,,Developed,90.0,30.0,42.0,90.0,52.0,20.0
-World,Europe,Eastern Europe,RUS,1,150,151,,,Russia,643,,,,Developed,93.0,39.0,36.0,95.0,81.0,20.0
-World,Africa,Sub-Saharan Africa,RWA,1,2,202,14.0,Eastern Africa,Rwanda,646,1.0,1.0,,Developing,,,,,18.0,37.0
-World,Asia,Western Asia,SAU,1,142,145,,,Saudi Arabia,682,,,,Developing,95.0,25.0,60.0,80.0,36.0,52.0
-World,Africa,Sub-Saharan Africa,SEN,1,2,202,11.0,Western Africa,Senegal,686,1.0,,,Developing,70.0,25.0,45.0,55.0,25.0,
-World,Europe,Southern Europe,SRB,1,150,39,,,Serbia,688,,,,Developed,86.0,25.0,43.0,92.0,52.0,28.0
-World,Africa,Sub-Saharan Africa,SLE,1,2,202,11.0,Western Africa,Sierra Leone,694,1.0,,,Developing,70.0,20.0,40.0,50.0,,
-World,Asia,South-eastern Asia,SGP,1,142,35,,,Singapore,702,,,1.0,Developing,74.0,20.0,48.0,8.0,72.0,46.0
-World,Europe,Eastern Europe,SVK,1,150,151,,,Slovakia,703,,,,Developed,104.0,52.0,110.0,51.0,77.0,28.0
-World,Europe,Southern Europe,SVN,1,150,39,,,Slovenia,705,,,,Developed,71.0,27.0,19.0,88.0,49.0,48.0
-World,Africa,Sub-Saharan Africa,ZAF,1,2,202,18.0,Southern Africa,South Africa,710,,,,Developing,49.0,65.0,63.0,49.0,34.0,63.0
-World,Asia,Eastern Asia,KOR,1,142,30,,,South Korea,410,,,,Developing,60.0,18.0,39.0,85.0,100.0,29.0
-World,Europe,Southern Europe,ESP,1,150,39,,,Spain,724,,,,Developed,57.0,51.0,42.0,86.0,48.0,44.0
-World,Asia,Southern Asia,LKA,1,142,34,,,Sri Lanka,144,,,,Developing,80.0,35.0,10.0,45.0,45.0,
-World,Americas,Latin America and the Caribbean,SUR,1,19,419,5.0,South America,Suriname,740,,,1.0,Developing,85.0,47.0,37.0,92.0,,
-World,Europe,Northern Europe,SWE,1,150,154,,,Sweden,752,,,,Developed,31.0,71.0,5.0,29.0,53.0,78.0
-World,Europe,Western Europe,CHE,1,150,155,,,Switzerland,756,,,,Developed,34.0,68.0,70.0,58.0,74.0,66.0
-World,Asia,Eastern Asia,TAI,1,142,30,,,Taiwan,762,,,,Developed,58.0,17.0,45.0,69.0,93.0,49.0
-World,Oceania,Micronesia,TZA,1,9,57,,,Tanzania,834,1.0,,,Developing,70.0,25.0,40.0,5.0,34.0,38.0
-World,Asia,South-eastern Asia,THA,1,142,35,,,Thailand,764,,,,Developing,64.0,20.0,34.0,64.0,32.0,45.0
-World,Americas,Latin America and the Caribbean,TTO,1,19,419,29.0,Caribbean,Trinidad and Tobago,780,,,1.0,Developing,47.0,16.0,58.0,55.0,13.0,80.0
-World,Asia,Western Asia,TUR,1,142,145,,,Turkey,792,,,,Developing,66.0,37.0,45.0,85.0,46.0,49.0
-World,Asia,Western Asia,ARE,1,142,145,,,UAE,800,,,,Developing,90.0,25.0,50.0,80.0,,
-World,Africa,Sub-Saharan Africa,UGA,1,2,202,14.0,Eastern Africa,Uganda,826,1.0,1.0,,Developing,,,,,24.0,52.0
-World,Europe,Northern Europe,GBR,1,150,154,,,UK,804,,,,Developed,35.0,89.0,66.0,35.0,51.0,69.0
-World,Europe,Eastern Europe,UKR,1,150,151,,,Ukraine,784,,,,Developed,92.0,25.0,27.0,95.0,86.0,14.0
-World,Americas,Latin America and the Caribbean,URY,1,19,419,5.0,South America,Uruguay,858,,,,Developing,61.0,36.0,38.0,100.0,26.0,53.0
-World,Americas,Northern America,USA,1,19,21,,,USA,840,,,,Developed,40.0,91.0,62.0,46.0,26.0,68.0
-World,Americas,Latin America and the Caribbean,VEN,1,19,419,5.0,South America,Venezuela,862,,,,Developing,81.0,12.0,73.0,76.0,16.0,100.0
-World,Asia,South-eastern Asia,VNM,1,142,35,,,Vietnam,704,,,,Developing,70.0,20.0,40.0,30.0,57.0,35.0
-World,Africa,Sub-Saharan Africa,ZMB,1,2,202,14.0,Eastern Africa,Zambia,894,1.0,1.0,,Developing,60.0,35.0,40.0,50.0,30.0,42.0
-World,Africa,Sub-Saharan Africa,ZWE,1,2,202,14.0,Eastern Africa,Zimbabwe,716,,1.0,,Developing,,,,,15.0,28.0
+,globalCode,globalName,regionCode,regionName,subRegionCode,subRegionName,interRegionCode,interRegionName,country,m49,code,ldc,lldc,sids,development,pdi,idv,mas,uai,ltowvs,ivr
+0,1,World,150,Europe,39,Southern Europe,,,Albania,8,ALB,,,,Developed,90.0,20.0,80.0,70.0,61.0,15.0
+1,1,World,2,Africa,15,Northern Africa,,,Algeria,12,DZA,,,,Developing,,,,,26.0,32.0
+2,1,World,150,Europe,39,Southern Europe,,,Andorra,20,AND,,,,Developed,,,,,,65.0
+3,1,World,2,Africa,202,Sub-Saharan Africa,17.0,Middle Africa,Angola,24,AGO,1.0,,,Developing,83.0,18.0,20.0,60.0,15.0,83.0
+4,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Argentina,32,ARG,,,,Developing,49.0,46.0,56.0,86.0,20.0,62.0
+5,1,World,142,Asia,145,Western Asia,,,Armenia,51,ARM,,1.0,,Developing,,,,,61.0,
+6,1,World,9,Oceania,53,Australia and New Zealand,,,Australia,36,AUS,,,,Developed,38.0,90.0,61.0,51.0,21.0,71.0
+7,1,World,150,Europe,155,Western Europe,,,Austria,40,AUT,,,,Developed,11.0,55.0,79.0,70.0,60.0,63.0
+8,1,World,142,Asia,145,Western Asia,,,Azerbaijan,31,AZE,,1.0,,Developing,,,,,61.0,22.0
+9,1,World,142,Asia,34,Southern Asia,,,Bangladesh,50,BGD,1.0,,,Developing,80.0,20.0,55.0,60.0,47.0,20.0
+10,1,World,150,Europe,151,Eastern Europe,,,Belarus,112,BLR,,,,Developed,,,,,81.0,15.0
+11,1,World,150,Europe,155,Western Europe,,,Belgium,56,BEL,,,,Developed,65.0,75.0,54.0,94.0,82.0,57.0
+12,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Benin,204,BEN,1.0,,,Developing,61.0,78.0,43.0,97.0,,
+13,1,World,142,Asia,34,Southern Asia,,,Bhutan,64,BTN,1.0,1.0,,Developing,94.0,52.0,32.0,28.0,,
+14,1,World,150,Europe,39,Southern Europe,,,Bosnia and Herzegovina,70,BIH,,,,Developed,,,,,70.0,44.0
+15,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Brazil,76,BRA,,,,Developing,69.0,38.0,49.0,76.0,44.0,59.0
+16,1,World,150,Europe,151,Eastern Europe,,,Bulgaria,100,BGR,,,,Developed,70.0,30.0,40.0,85.0,69.0,16.0
+17,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Burkina Faso,854,BFA,1.0,1.0,,Developing,70.0,15.0,50.0,55.0,27.0,18.0
+18,1,World,19,Americas,21,Northern America,,,Canada,124,CAN,,,,Developed,39.0,80.0,52.0,48.0,36.0,68.0
+19,1,World,2,Africa,202,Sub-Saharan Africa,17.0,Middle Africa,Central African Republic,140,CAF,1.0,1.0,,Developing,54.0,73.0,45.0,60.0,,
+20,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Chile,152,CHL,,,,Developing,63.0,23.0,28.0,86.0,31.0,68.0
+21,1,World,142,Asia,30,Eastern Asia,,,China,156,CHN,,,,Developing,80.0,20.0,66.0,30.0,87.0,24.0
+22,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Colombia,170,COL,,,,Developing,67.0,13.0,64.0,80.0,13.0,83.0
+23,1,World,19,Americas,419,Latin America and the Caribbean,13.0,Central America,Costa Rica,188,CRI,,,,Developing,35.0,15.0,21.0,86.0,,
+24,1,World,150,Europe,39,Southern Europe,,,Croatia,191,HRV,,,,Developed,73.0,33.0,40.0,80.0,58.0,33.0
+25,1,World,142,Asia,145,Western Asia,,,Cyprus,196,CYP,,,,Developed,,,,,,70.0
+26,1,World,150,Europe,151,Eastern Europe,,,Czech Republic,203,CZE,,,,Developed,57.0,58.0,57.0,74.0,70.0,29.0
+27,1,World,150,Europe,154,Northern Europe,,,Denmark,208,DNK,,,,Developed,18.0,74.0,16.0,23.0,35.0,70.0
+28,1,World,19,Americas,419,Latin America and the Caribbean,29.0,Caribbean,Dominican Republic,214,DOM,,,1.0,Developing,65.0,30.0,65.0,45.0,13.0,54.0
+29,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Ecuador,218,ECU,,,,Developing,78.0,8.0,63.0,67.0,,
+30,1,World,2,Africa,15,Northern Africa,,,Egypt,818,EGY,,,,Developing,70.0,25.0,45.0,80.0,7.0,4.0
+31,1,World,19,Americas,419,Latin America and the Caribbean,13.0,Central America,El Salvador,222,SLV,,,,Developing,66.0,19.0,40.0,94.0,20.0,89.0
+32,1,World,150,Europe,154,Northern Europe,,,Estonia,233,EST,,,,Developed,40.0,60.0,30.0,60.0,82.0,16.0
+33,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Ethiopia,231,ETH,1.0,1.0,,Developing,70.0,20.0,65.0,55.0,,46.0
+34,1,World,9,Oceania,54,Melanesia,,,Fiji,242,FJI,,,1.0,Developing,78.0,14.0,46.0,48.0,,
+35,1,World,150,Europe,154,Northern Europe,,,Finland,246,FIN,,,,Developed,33.0,63.0,26.0,59.0,38.0,57.0
+36,1,World,150,Europe,155,Western Europe,,,France,250,FRA,,,,Developed,68.0,71.0,43.0,86.0,63.0,48.0
+37,1,World,142,Asia,145,Western Asia,,,Georgia,268,GEO,,,,Developing,,,,,38.0,32.0
+38,1,World,150,Europe,155,Western Europe,,,Germany,276,DEU,,,,Developed,35.0,67.0,66.0,65.0,83.0,40.0
+39,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Ghana,288,GHA,,,,Developing,80.0,15.0,40.0,65.0,4.0,72.0
+40,1,World,150,Europe,39,Southern Europe,,,Greece,300,GRC,,,,Developed,60.0,35.0,57.0,112.0,45.0,50.0
+41,1,World,19,Americas,419,Latin America and the Caribbean,13.0,Central America,Guatemala,320,GTM,,,,Developing,95.0,6.0,37.0,101.0,,
+42,1,World,19,Americas,419,Latin America and the Caribbean,13.0,,Honduras,340,HND,,,,Developing,80.0,20.0,40.0,50.0,,
+43,1,World,142,Asia,30,Eastern Asia,,,Hong Kong,344,HKG,,,,Developed,68.0,25.0,57.0,29.0,61.0,17.0
+44,1,World,150,Europe,151,Eastern Europe,,,Hungary,348,HUN,,,,Developed,46.0,80.0,88.0,82.0,58.0,31.0
+45,1,World,150,Europe,154,Northern Europe,,,Iceland,352,ISL,,,,Developed,30.0,60.0,10.0,50.0,28.0,67.0
+46,1,World,142,Asia,34,Southern Asia,,,India,356,IND,,,,Developing,77.0,48.0,56.0,40.0,51.0,26.0
+47,1,World,142,Asia,35,South-eastern Asia,,,Indonesia,360,IDN,,,,Developing,78.0,14.0,46.0,48.0,62.0,38.0
+48,1,World,142,Asia,34,Southern Asia,,,Iran,364,IRN,,,,Developing,58.0,41.0,43.0,59.0,14.0,40.0
+49,1,World,142,Asia,145,Western Asia,,,Iraq,368,IRQ,,,,Developing,95.0,30.0,70.0,85.0,25.0,17.0
+50,1,World,150,Europe,154,Northern Europe,,,Ireland,372,IRL,,,,Developed,28.0,70.0,68.0,35.0,24.0,65.0
+51,1,World,142,Asia,145,Western Asia,,,Israel,376,ISR,,,,Developed,13.0,54.0,47.0,81.0,38.0,
+52,1,World,150,Europe,39,Southern Europe,,,Italy,380,ITA,,,,Developed,50.0,76.0,70.0,75.0,61.0,30.0
+53,1,World,19,Americas,419,Latin America and the Caribbean,29.0,Caribbean,Jamaica,388,JAM,,,1.0,Developing,45.0,39.0,68.0,13.0,,
+54,1,World,142,Asia,30,Eastern Asia,,,Japan,392,JPN,,,,Developed,54.0,46.0,95.0,92.0,88.0,42.0
+55,1,World,142,Asia,145,Western Asia,,,Jordan,400,JOR,,,,Developing,70.0,30.0,45.0,65.0,16.0,43.0
+56,1,World,2,Africa,202,Sub-Saharan Africa,14.0,,Kenya,404,KEN,,,,Developing,70.0,25.0,60.0,50.0,,
+57,1,World,142,Asia,145,Western Asia,,,Kuwait,414,KWT,,,,Developing,90.0,25.0,40.0,80.0,,
+58,1,World,142,Asia,143,Central Asia,,,Kyrgyzstan,417,KGZ,,1.0,,Developing,,,,,66.0,39.0
+59,1,World,150,Europe,154,Northern Europe,,,Latvia,428,LVA,,,,Developed,44.0,70.0,9.0,63.0,69.0,13.0
+60,1,World,150,Europe,154,Northern Europe,,,Lithuania,440,LTU,,,,Developed,42.0,60.0,19.0,65.0,82.0,16.0
+61,1,World,150,Europe,155,Western Europe,,,Luxembourg,442,LUX,,,,Developed,40.0,60.0,50.0,70.0,64.0,56.0
+62,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Malawi,454,MWI,1.0,1.0,,Developing,70.0,30.0,40.0,50.0,,
+63,1,World,142,Asia,35,South-eastern Asia,,,Malaysia,458,MYS,,,,Developing,104.0,26.0,50.0,36.0,41.0,57.0
+64,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Mali,466,MLI,1.0,1.0,,Developing,,,,,20.0,43.0
+65,1,World,150,Europe,39,Southern Europe,,,Malta,470,MLT,,,,Developed,56.0,59.0,47.0,96.0,47.0,66.0
+66,1,World,19,Americas,419,Latin America and the Caribbean,13.0,Central America,Mexico,484,MEX,,,,Developing,81.0,30.0,69.0,82.0,24.0,97.0
+67,1,World,150,Europe,39,Southern Europe,,,Montenegro,499,MNE,,,,Developed,,,,,75.0,20.0
+68,1,World,2,Africa,15,Northern Africa,,,Morocco,504,MAR,,,,Developing,70.0,46.0,53.0,68.0,14.0,25.0
+69,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Mozambique,508,MOZ,1.0,,,Developing,85.0,15.0,38.0,44.0,11.0,80.0
+70,1,World,2,Africa,202,Sub-Saharan Africa,18.0,Southern Africa,Namibia,516,NAM,,,,Developing,65.0,30.0,40.0,45.0,35.0,
+71,1,World,142,Asia,34,Southern Asia,,,Nepal,524,NPL,1.0,1.0,,Developing,65.0,30.0,40.0,40.0,,
+72,1,World,150,Europe,155,Western Europe,,,Netherlands,528,NLD,,,,Developed,38.0,80.0,14.0,53.0,67.0,68.0
+73,1,World,9,Oceania,53,Australia and New Zealand,,,New Zealand,554,NZL,,,,Developed,22.0,79.0,58.0,49.0,33.0,75.0
+74,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Nigeria,566,NGA,,,,Developing,80.0,30.0,60.0,55.0,13.0,84.0
+75,1,World,150,Europe,39,Southern Europe,,,Macedonia,807,MKD,,1.0,,Developed,,,,,62.0,35.0
+76,1,World,150,Europe,154,Northern Europe,,,Norway,578,NOR,,,,Developed,31.0,69.0,8.0,50.0,35.0,55.0
+77,1,World,142,Asia,34,Southern Asia,,,Pakistan,586,PAK,,,,Developing,55.0,14.0,50.0,70.0,50.0,0.0
+78,1,World,19,Americas,419,Latin America and the Caribbean,13.0,Central America,Panama,381,PAN,,,,Developing,95.0,11.0,44.0,86.0,,
+79,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Peru,604,PER,,,,Developing,64.0,16.0,42.0,87.0,25.0,46.0
+80,1,World,142,Asia,35,South-eastern Asia,,,Philippines,608,PHL,,,,Developing,94.0,32.0,64.0,44.0,27.0,42.0
+81,1,World,150,Europe,151,Eastern Europe,,,Poland,616,POL,,,,Developed,68.0,60.0,64.0,93.0,38.0,29.0
+82,1,World,150,Europe,39,Southern Europe,,,Portugal,620,PRT,,,,Developed,63.0,27.0,31.0,104.0,28.0,33.0
+83,1,World,19,Americas,419,Latin America and the Caribbean,29.0,Caribbean,Puerto Rico,630,PRI,,,1.0,Developing,68.0,27.0,56.0,38.0,19.0,99.0
+84,1,World,142,Asia,145,Western Asia,,,Qatar,634,QAT,,,,Developing,93.0,25.0,55.0,80.0,,
+85,1,World,150,Europe,151,Eastern Europe,,,Moldova,498,MDA,,,,Developed,,,,,71.0,19.0
+86,1,World,150,Europe,151,Eastern Europe,,,Romania,642,ROU,,,,Developed,90.0,30.0,42.0,90.0,52.0,20.0
+87,1,World,150,Europe,151,Eastern Europe,,,Russia,643,RUS,,,,Developed,93.0,39.0,36.0,95.0,81.0,20.0
+88,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Rwanda,646,RWA,1.0,1.0,,Developing,,,,,18.0,37.0
+89,1,World,142,Asia,145,Western Asia,,,Saudi Arabia,682,SAU,,,,Developing,95.0,25.0,60.0,80.0,36.0,52.0
+90,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Senegal,686,SEN,1.0,,,Developing,70.0,25.0,45.0,55.0,25.0,
+91,1,World,150,Europe,39,Southern Europe,,,Serbia,688,SRB,,,,Developed,86.0,25.0,43.0,92.0,52.0,28.0
+92,1,World,2,Africa,202,Sub-Saharan Africa,11.0,Western Africa,Sierra Leone,694,SLE,1.0,,,Developing,70.0,20.0,40.0,50.0,,
+93,1,World,142,Asia,35,South-eastern Asia,,,Singapore,702,SGP,,,1.0,Developing,74.0,20.0,48.0,8.0,72.0,46.0
+94,1,World,150,Europe,151,Eastern Europe,,,Slovakia,703,SVK,,,,Developed,104.0,52.0,110.0,51.0,77.0,28.0
+95,1,World,150,Europe,39,Southern Europe,,,Slovenia,705,SVN,,,,Developed,71.0,27.0,19.0,88.0,49.0,48.0
+96,1,World,2,Africa,202,Sub-Saharan Africa,18.0,Southern Africa,South Africa,710,ZAF,,,,Developing,49.0,65.0,63.0,49.0,34.0,63.0
+97,1,World,142,Asia,30,Eastern Asia,,,South Korea,410,KOR,,,,Developing,60.0,18.0,39.0,85.0,100.0,29.0
+98,1,World,150,Europe,39,Southern Europe,,,Spain,724,ESP,,,,Developed,57.0,51.0,42.0,86.0,48.0,44.0
+99,1,World,142,Asia,34,Southern Asia,,,Sri Lanka,144,LKA,,,,Developing,80.0,35.0,10.0,45.0,45.0,
+100,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Suriname,740,SUR,,,1.0,Developing,85.0,47.0,37.0,92.0,,
+101,1,World,150,Europe,154,Northern Europe,,,Sweden,752,SWE,,,,Developed,31.0,71.0,5.0,29.0,53.0,78.0
+102,1,World,150,Europe,155,Western Europe,,,Switzerland,756,CHE,,,,Developed,34.0,68.0,70.0,58.0,74.0,66.0
+103,1,World,142,Asia,30,Eastern Asia,,,Taiwan,762,TAI,,,,Developed,58.0,17.0,45.0,69.0,93.0,49.0
+104,1,World,9,Oceania,57,Micronesia,,,Tanzania,834,TZA,1.0,,,Developing,70.0,25.0,40.0,5.0,34.0,38.0
+105,1,World,142,Asia,35,South-eastern Asia,,,Thailand,764,THA,,,,Developing,64.0,20.0,34.0,64.0,32.0,45.0
+106,1,World,19,Americas,419,Latin America and the Caribbean,29.0,Caribbean,Trinidad and Tobago,780,TTO,,,1.0,Developing,47.0,16.0,58.0,55.0,13.0,80.0
+107,1,World,142,Asia,145,Western Asia,,,Turkey,792,TUR,,,,Developing,66.0,37.0,45.0,85.0,46.0,49.0
+108,1,World,142,Asia,145,Western Asia,,,UAE,800,ARE,,,,Developing,90.0,25.0,50.0,80.0,,
+109,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Uganda,826,UGA,1.0,1.0,,Developing,,,,,24.0,52.0
+110,1,World,150,Europe,154,Northern Europe,,,UK,804,GBR,,,,Developed,35.0,89.0,66.0,35.0,51.0,69.0
+111,1,World,150,Europe,151,Eastern Europe,,,Ukraine,784,UKR,,,,Developed,92.0,25.0,27.0,95.0,86.0,14.0
+112,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Uruguay,858,URY,,,,Developing,61.0,36.0,38.0,100.0,26.0,53.0
+113,1,World,19,Americas,21,Northern America,,,USA,840,USA,,,,Developed,40.0,91.0,62.0,46.0,26.0,68.0
+114,1,World,19,Americas,419,Latin America and the Caribbean,5.0,South America,Venezuela,862,VEN,,,,Developing,81.0,12.0,73.0,76.0,16.0,100.0
+115,1,World,142,Asia,35,South-eastern Asia,,,Vietnam,704,VNM,,,,Developing,70.0,20.0,40.0,30.0,57.0,35.0
+116,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Zambia,894,ZMB,1.0,1.0,,Developing,60.0,35.0,40.0,50.0,30.0,42.0
+117,1,World,2,Africa,202,Sub-Saharan Africa,14.0,Eastern Africa,Zimbabwe,716,ZWE,,1.0,,Developing,,,,,15.0,28.0

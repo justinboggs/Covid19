@@ -1,4 +1,4 @@
-﻿countryWom,Code,date,totalCases,totalDeaths,totalRecovered,activeCases,criticalCases,casesMPop,deathsMPop,totalTests,testsMPop,calcPop
+﻿countryWom,code,date,totalCases,totalDeaths,totalRecovered,activeCases,criticalCases,casesMPop,deathsMPop,totalTests,testsMPop,calcPop
 Zimbabwe,ZWE,15-Apr-20,23,3,1,19,,2,0.2,716,48,11500000
 Zambia,ZMB,15-Apr-20,48,2,30,16,1,3,0.1,1696,92,16000000
 South Africa,ZAF,15-Apr-20,2506,34,410,2062,7,42,0.6,90515,1526,59666667
