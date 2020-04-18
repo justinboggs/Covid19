@@ -5,6 +5,7 @@
     left: 0;
     min-height: 0px;
     background: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .jumbotron {
@@ -23,8 +24,17 @@
 
 .navbar {
     /* font-size: large; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .dropdown-menu>a:hover {
     background-color: gainsboro;
+}
+
+.body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#choropleth {
+    max-width: 100%;
 }
