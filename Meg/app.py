@@ -29,11 +29,13 @@ app = Flask(__name__)
 #################################################
 df= pd.read_sql_query("select * from 'countries'",con=engine)
 
+
 @app.route("/")
 def welcome():
 
     return (
         f"Available Routes:<br>"
+        f"<a href='http://127.0.0.1:5000/'>/api/v1.0/</a><br>"
         f"<a href='http://127.0.0.1:5000/api/v1.0/all_data'>/api/v1.0/all_data</a><br>"
         f"<a href='http://127.0.0.1:5000/api/v1.0/Countries'>/api/v1.0/Countries</a><br>"
         f"<a href='http://127.0.0.1:5000/api/v1.0/HighIndividualism'>/api/v1.0/HighIndividualism</a><br>"
