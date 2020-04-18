@@ -36,6 +36,6 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#choropleth {
-    max-width: 100%;
+.col-md-6 {
+    align-items: center;
 }
