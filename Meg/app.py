@@ -32,14 +32,12 @@ df= pd.read_sql_query("select * from 'countries'",con=engine)
 @app.route("/")
 def welcome():
 
-    #Returns text on page for all routes
     return (
-        f"Welcome to the Corona Virus API!<br/>"
-        f"Available Routes:<br/>"
-        f"/api/v1.0/all_data<br/>"
-        f"/api/v1.0/Countries<br/>"
-        f"/api/v1.0/HighIndividualism<br/>"
-        f"/api/v1.0/LowIndividualism")
+        f"Available Routes:<br>"
+        f"<a href='http://127.0.0.1:5000/api/v1.0/all_data'>/api/v1.0/all_data</a><br>"
+        f"<a href='http://127.0.0.1:5000/api/v1.0/Countries'>/api/v1.0/Countries</a><br>"
+        f"<a href='http://127.0.0.1:5000/api/v1.0/HighIndividualism'>/api/v1.0/HighIndividualism</a><br>"
+        f"<a href='http://127.0.0.1:5000/api/v1.0/LowIndividualism'>/api/v1.0/LowIndividualism</a><br>"  )
 
 
 @app.route("/api/v1.0/all_data")
