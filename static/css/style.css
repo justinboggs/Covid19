@@ -21,4 +21,10 @@
     background-color: white;
 }
 
+.navbar {
+    /* font-size: large; */
+}
 
+.dropdown-menu>a:hover {
+    background-color: gainsboro;
+}
