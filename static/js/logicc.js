@@ -32,11 +32,12 @@ Plotly.d3.csv('static/data/six-dem_mod.csv', function(err, rows){
 
       var layout = {
           title: 'Individualism World Map',
-          width: 750,
-          height: 750,
+          width: 1200,
+          height: 1000,
           geo:{
-              showframe: false,
-              showcoastlines: false,
+              width: 1000,
+              showframe: true,
+              showcoastlines: true,
               projection:{
                   type: 'mercator'
               }
