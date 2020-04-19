@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Pivot Table</title>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-46914903-2', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- external libs from cdnjs -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js">
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js">
+    </script>
+    <script src="https://cdn.plot.ly/plotly-basic-latest.min.js"></script>
+
+    <!-- PivotTable.js libs from ../dist -->
+    <link rel="stylesheet" type="text/css" href="../css/pivot.css">
+    <script type="text/javascript" src="../js/pivot.js"></script>
+    <script type="text/javascript" src="../js/d3_renderers.js"></script>
+    <script type="text/javascript" src="../js/plotly_renderers.js"></script>
+    <script type="text/javascript" src="../js/export_renderers.js"></script>
+
+    <style>
+        html {
+            height: 100%;
+        }
+
+        body {
+            /* font-family: Verdana; */
+            min-height: 95%;
+            border: 5px dotted;
+        }
+
+        .whiteborder {
+            border-color: white;
+        }
+
+        .greyborder {
+            border-color: lightgrey;
+        }
+
+        #filechooser {
+            color: #555;
+            text-decoration: underline;
+            ;
+            cursor: pointer;
+            /* "hand" cursor */
+        }
+
+        .node {
+            border: solid 1px white;
+            font: 10px sans-serif;
+            line-height: 12px;
+            overflow: hidden;
+            position: absolute;
+            text-indent: 2px;
+        }
+    </style>
+</head>
+
+<body class="whiteborder">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: gainsboro;">
+        <div class="container">
+            <a class="navbar-brand" href="../../index.html">
+                <h2>Covid-19</h2>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="pivottable.html">Pivot Table</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="data.html">Data</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="routes.html">Routes</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="mo_charts.html">Additional Charts</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="data_a.html">Data Architecture</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="ppt.html">Powerpoint</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <script type="text/javascript">
+        $(function () {
+            var renderers = $.extend(
+                $.pivotUtilities.renderers,
+                $.pivotUtilities.plotly_renderers,
+                $.pivotUtilities.d3_renderers,
+                $.pivotUtilities.export_renderers
+            );
+
+            $(function (f) {
+                    Papa.parse("../data/womHoef.csv", {
+                        download: true,
+                        skipEmptyLines: true,
+                        complete: function(parsed){
+                            $("#output").pivotUI(parsed.data, {
+                            });
+                        }
+                    });
+            });
+
+            // $("#csv").bind("change", function (event) {
+            //     parseAndPivot(event.target.files[0]);
+            // });
+
+            // $("#textarea").bind("input change", function () {
+            //     parseAndPivot($("#textarea").val());
+            // });
+
+            // var dragging = function (evt) {
+            //     evt.stopPropagation();
+            //     evt.preventDefault();
+            //     evt.originalEvent.dataTransfer.dropEffect = 'copy';
+            //     $("body").removeClass("whiteborder").addClass("greyborder");
+            // };
+
+            // var endDrag = function (evt) {
+            //     evt.stopPropagation();
+            //     evt.preventDefault();
+            //     evt.originalEvent.dataTransfer.dropEffect = 'copy';
+            //     $("body").removeClass("greyborder").addClass("whiteborder");
+            // };
+
+            // var dropped = function (evt) {
+            //     evt.stopPropagation();
+            //     evt.preventDefault();
+            //     $("body").removeClass("greyborder").addClass("whiteborder");
+            //     parseAndPivot(evt.originalEvent.dataTransfer.files[0]);
+            // };
+
+            // $("html")
+            //     .on("dragover", dragging)
+            //     .on("dragend", endDrag)
+            //     .on("dragexit", endDrag)
+            //     .on("dragleave", endDrag)
+            //     .on("drop", dropped);
+        });
+    </script>
+
+    <div id="output" style="margin: 10px;"></div>
+<footer class="footer">
+    <span class="bottom">Covid-19 &copy; <a href="mailto:megellenpeterson@gmail.com">Meg Peterson</a> • <a
+            href="mailto:andyhyshi@gmail.com">Andy Shi</a> • <a href="mailto:kipmadden@cosapient.com">Kip Madden</a> •
+        <a href="mailto:jboggs1@gmail.com">Justin Boggs</a> 2020</span>
+</footer>
+</body>
+
+</html>
