@@ -25,4 +25,4 @@
 ### ·     Generated visuals with D3 and Leaflet.
 ### ·     Loaded our data onto our front end display with Flask.
 ### ·     Hosted our visualizations onto a front end, interactive dashboard.
-### .     You can see it here http://justinboggs.github.io/project-2
+### .     You can see it here: http://justinboggs.github.io/project-2
