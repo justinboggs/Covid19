@@ -1,7 +1,11 @@
 # Covid 19 and Individualism/Collectivism
 
+![](Justin/static/images/covid-19-image.png)
+
 ## Topic
 ### The purpose of this project was to analyze data about the Covid-19 infection rate, and how it is affected by cultural factors. We specifically wanted to look at how attitudes on individualism impact the Covid-19 infection rate.
+
+![](Justin/casesVscore.png)
 
 ## Data
 ### Visual Capitalist Covid Infection Rate:
@@ -18,6 +22,8 @@
 ### https://ourworldindata.org/urbanization
 ### Human Development Index:
 ### http://hdr.undp.org/en/content/human-development-index-hdi
+
+![](Justin/PearsonCorrelation40Days.jpg)
 
 ## CLEANUP AND ANALYSIS
 ### ·     Used Pandas to clean our data and load it into a SQLite database.
